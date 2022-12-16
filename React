@@ -1,0 +1,8 @@
+React
+==============================
+To solve `javascript heap memory` full error or to increase size allocation to node as default heap memory allocated to node is 1.7 GB and some project need much more heap memory
+                                     write in package.json     "start": "react-scripts --max_old_space_size=4096 start",
+                                                               "build": "react-scripts --max_old_space_size=4096 build",
+                                                               
+                                                               
+                                                               To increase memory to 4GB 
