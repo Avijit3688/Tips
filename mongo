@@ -1,1 +1,2 @@
 to check mongodb version ----------           C:\Program Files\MongoDB\Server\6.0\bin>mongod --version
+Create db using mongosh-------------  create db-  use "newdbname"->create collection db.createCollection("nameOfNewCollection")
