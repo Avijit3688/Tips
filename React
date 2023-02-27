@@ -6,3 +6,4 @@ To solve `javascript heap memory` full error or to increase size allocation to n
                                                                
                                                                
                                                                To increase memory to 4GB 
+Used react-image-file-resizer package to send image and get converted images with different formats in base64 format
